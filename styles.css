@@ -6,3 +6,12 @@ h1{
     background-color: palegoldenrod;
     text-transform: capitalize;
 }
+h2{
+    font-size: medium;
+}
+h3{
+    color: beige;
+}
+h4{
+    color: blue;
+}
