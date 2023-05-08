@@ -11,7 +11,9 @@ h2{
 }
 h3{
     color: beige;
+    text-decoration-color: powderblue;
 }
 h4{
     color: blue;
+    text-align: left;
 }
